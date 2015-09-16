@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:10:33.229575
+#+DATE: 2015-08-30 20:10:35.076313
 #+TITLE: 佛說初分說經
 #+PROPERTY: CBETA_ID T14n0498
 #+PROPERTY: ID KR6i0128
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 498
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0128_T_000-0763a>¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0128_T_001-0763a> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.498¶
-
- 《佛說初分說經》卷上¶
+No. 498¶
+《佛說初分說經》卷上¶
 ¶
 西天譯經三藏傳法大師¶
 賜紫臣施護奉　詔譯¶
@@ -299,7 +298,7 @@ No.498¶
 有如是等種種神通，轉復發起最上淨信。世¶
 尊知彼心已，於迦葉前，復以神力，以虛空¶
 中，別見身相，起三威儀：謂住威儀、行步威¶
-儀、加趺坐威儀。如是所現諸威儀相，皆¶
+儀、加跌坐威儀。如是所現諸威儀相，皆¶
 悉迅疾，如履急流，是相亦然；又於空中，化¶
 現眾寶，所成樓閣；又復普現，黃金色相。世¶
 尊現如是等諸神通已，還攝神力，本相如¶

@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:10:33.261751
+#+DATE: 2015-08-30 20:10:35.105588
 #+TITLE: 佛說初分說經
 #+PROPERTY: CBETA_ID T14n0498
 #+PROPERTY: ID KR6i0128
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 498
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0128_T_000-0763a>¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0128_T_002-0765c> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《佛說初分說經》卷下¶
+《佛說初分說經》卷下¶
 ¶
 西天譯經三藏傳法大師¶
 賜紫臣施護奉　詔譯¶
