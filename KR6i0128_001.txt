@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:10:33.229575
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:39
 #+TITLE: 佛說初分說經
 #+PROPERTY: CBETA_ID T14n0498
 #+PROPERTY: ID KR6i0128
